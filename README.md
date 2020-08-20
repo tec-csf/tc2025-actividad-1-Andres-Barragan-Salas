@@ -3,7 +3,7 @@
 ##### Estudiante:  
 *Andrés Barragán Salas* - *A01026567* - *CSF*  
 
-## Instucciones
+## Instrucciones
 Se quiere desarrollar una aplicación para llevar el control de pacientes ingresados en un hospital. De cada paciente interesa conocer su nombre, apellidos, edad, teléfono de contacto y la cama asignada. Inicialmente, el hospital cuenta con un número de camas fijas pero se sabe que si se requiere, es posible incorporar más camas (se identifican con un número consecutivo) en cualquier momento para poder atender más pacientes. Por cuestiones de logística, siempre que se requiera incrementar el número de camas, se incrementan de 5 en 5.
 
 Diseñe e implemente una aplicación en C que se permita:
