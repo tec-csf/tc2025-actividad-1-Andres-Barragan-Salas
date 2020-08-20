@@ -1,4 +1,4 @@
-# Tarea *4*. *Algoritmos de grafos*
+# Actividad Individual *1*. *Aritmética de Apuntadores*
 ---
 ##### Estudiante:  
 *Andrés Barragán Salas* - *A01026567* - *CSF*
